@@ -538,3 +538,5 @@ background: #bb0000;
 color: white;
 align-self: center;
 }
+.underlined {text-decoration: underline;}
+.emphasized { font-style: italic; }
