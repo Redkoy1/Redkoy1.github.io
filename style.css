@@ -126,7 +126,7 @@ a.menu-items, a.menu-items-active {
     text-decoration: none;
 }
 
-button.icon {
+span.icon {
     text-decoration: none;
     color:#fff;
     font-size: 25px;
